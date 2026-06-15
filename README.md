@@ -1,7 +1,7 @@
 # Supply Chain Demand Forecasting & Inventory Optimization
 
 <p align="center">
-  <img src="images/banner.png" alt="Supply Chain Demand Forecasting & Inventory Optimization">
+  <img src="images/M5_Forecasting Banner.png" alt="Supply Chain Demand Forecasting & Inventory Optimization">
 </p>
 
 <p align="center">
